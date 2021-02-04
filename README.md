@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there, I'm [Jacopo](https://jackfotofilm.weebly.com/) 👋
 
-<!--
-**Jacopo-b/Jacopo-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a multyplayer creator!
 
-Here are some ideas to get you started:
+- 🔭 I'm currently on smartworking
+- 🌱 Every day i learning everything
+- ⚡ I love videogame series, tecnology and see a world with my camera
+- 📫 How to reach me: [send an email](bertin.jacopo@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="SITO PROFESSIONALE - WEEBLY" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://jackfotofilm.weebly.com/)
+[<img align="left" alt="SITO PROFESSIONALE - WEBSITE X5" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://www.fotoeventi-milano.it/)
+[<img align="left" alt="Jacopo Bertin | INSTAGRAM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/jackiebert/)
+[<img align="left" alt="Manuel Ricci | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/jacopo-bertin-a21505b3/)
