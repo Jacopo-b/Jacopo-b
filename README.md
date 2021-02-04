@@ -9,8 +9,8 @@
 
 ### 🛂 Connect with me:
 
-[<img align="left" alt="SITO PROFESSIONALE - WEEBLY" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://jackfotofilm.weebly.com/)
-[<img align="left" alt="SITO PROFESSIONALE - WEBSITE X5" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://www.fotoeventi-milano.it/)
+[<img align="left" alt="SITO PROFESSIONALE - WEEBLY" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/1password.svg">](https://jackfotofilm.weebly.com/)
+[<img align="left" alt="SITO PROFESSIONALE - WEBSITE X5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/1password.svg">](https://www.fotoeventi-milano.it/)
 [<img align="left" alt="Jacopo Bertin | INSTAGRAM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/jackiebert/)
 [<img align="left" alt="Jacopo Bertin | LINKEDIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/jacopo-bertin-a21505b3/)
 [<img align="left" alt="Jacopo Bertin | ADOBE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg">](https://www.behance.net/jacopobertin/)
